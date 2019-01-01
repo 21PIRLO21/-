@@ -1,2 +1,2 @@
 # -
-https://www.jianshu.com/p/67a71e366516
+loan risk control model
