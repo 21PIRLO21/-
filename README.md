@@ -1,2 +1,2 @@
 # -
-loan risk control model
+Loan risk control model
